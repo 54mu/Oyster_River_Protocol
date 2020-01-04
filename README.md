@@ -5,3 +5,8 @@
 Official Repository of the Oyster River Protocol for Transcriptome Assembly
 
 Please see http://oyster-river-protocol.readthedocs.io/en/latest/ and https://hackmd.io/s/SJhOQvkVm# for instructions about how to run and install. 
+### To Be Added - highest to lowest priority
+- support for genetic code selection 
+- support for read downsampling when there are too many
+- support for redundancy recovery by remapping unmapped reads on sub-assemblies
+- support for graphical assembly report 
